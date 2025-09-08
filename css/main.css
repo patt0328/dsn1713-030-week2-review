@@ -168,3 +168,10 @@ footer{
   }
 }
 
+
+@media(min-width: 67.5em){
+  .container{
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
